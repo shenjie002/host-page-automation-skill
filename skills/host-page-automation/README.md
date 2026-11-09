@@ -1,5 +1,19 @@
 # 宿主页面自动化 Skill：Agent 使用说明
 
+## 安装
+
+通用 Agent Skills 客户端：
+
+```bash
+npx skills add shenjie002/host-page-automation-skill
+```
+
+Claude Code Plugin Marketplace：
+
+```text
+/plugin install host-page-automation --marketplace shenjie002/host-page-automation-skill
+```
+
 本目录可交给任何支持读取文件、使用浏览器工具和多轮推理的 harness/Agent。它提供探索与验证方法，不绑定特定模型、Agent 产品、MCP 客户端或浏览器插件。
 
 目标是让 Agent 像开发者使用控制台一样，逐步调查陌生页面的框架、元素、组件实例、状态绑定和业务交互，为后续开发提供可复现证据。不是只做 DOM 点击，也不默认建设通用填表引擎。

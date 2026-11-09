@@ -1,5 +1,6 @@
 {
   "name": "shenjie002-agent-skills",
+  "description": "Agent skills for safe host-page investigation and web automation.",
   "owner": {
     "name": "shenjie002"
   },
