@@ -1,0 +1,16 @@
+{
+  "name": "shenjie002-agent-skills",
+  "owner": {
+    "name": "shenjie002"
+  },
+  "plugins": [
+    {
+      "name": "host-page-automation",
+      "description": "Safely investigate and adapt host web pages for AI-assisted form automation across Vue, React, Ext, and Angular applications.",
+      "source": {
+        "source": "github",
+        "repo": "shenjie002/host-page-automation-skill"
+      }
+    }
+  ]
+}

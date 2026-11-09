@@ -1,0 +1,8 @@
+{
+  "name": "host-page-automation",
+  "description": "Safely investigate and adapt host web pages for AI-assisted form automation across Vue, React, Ext, and Angular applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shenjie002"
+  }
+}
